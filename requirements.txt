@@ -1,5 +1,5 @@
 # Real AI Translation Service for Hugging Face Spaces
-transformers>=4.35.0
+transformers==4.53.3
 torch>=2.0.0
 streamlit>=1.28.0
 sentencepiece>=0.1.99
