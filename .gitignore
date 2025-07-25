@@ -4,6 +4,9 @@ __pycache__/
 *$py.class
 *.so
 .Python
+
+# IndicTrans2 - External AI Model Repository
+IndicTrans2/
 build/
 develop-eggs/
 dist/
