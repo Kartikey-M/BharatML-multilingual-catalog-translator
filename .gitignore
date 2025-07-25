@@ -5,8 +5,34 @@ __pycache__/
 *.so
 .Python
 
-# IndicTrans2 - External AI Model Repository
+# Local Development Files
+local-development/
+backend/
+frontend/
 IndicTrans2/
+models/
+data/
+*.db
+*.sqlite
+
+# Environment files (keep only .env.example)
+.env
+.env.production
+.env.local
+
+# IDE and Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
 build/
 develop-eggs/
 dist/
