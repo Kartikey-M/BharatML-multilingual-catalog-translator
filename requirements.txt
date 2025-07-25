@@ -1,12 +1,11 @@
-# Core Streamlit Cloud Dependencies
+# Real AI Translation Service for Hugging Face Spaces
+transformers>=4.35.0
+torch>=2.0.0
 streamlit>=1.28.0
-requests>=2.31.0
+sentencepiece>=0.1.99
+sacremoses>=0.0.53
+accelerate>=0.20.0
+datasets>=2.14.0
+tokenizers>=0.14.0
 pandas>=2.0.0
 numpy>=1.24.0
-
-# Visualization (compatible versions)
-plotly>=5.15.0
-altair>=5.0.0
-
-# UI components (latest compatible)
-streamlit-option-menu>=0.3.0
