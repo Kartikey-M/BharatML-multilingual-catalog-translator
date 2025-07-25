@@ -14,11 +14,6 @@ import time
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-# Add backend modules to path
-current_dir = os.path.dirname(__file__)
-backend_dir = os.path.join(current_dir, 'local-development', 'backend')
-sys.path.append(backend_dir)
-
 # Streamlit page config
 st.set_page_config(
     page_title="Multi-Lingual Catalog Translator - Real AI",
