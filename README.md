@@ -24,13 +24,19 @@ short_description: AI-powered product catalog translator for 15+ Indian language
 
 **Real AI-powered translation system** for e-commerce product catalogs supporting **15+ Indian languages** with neural machine translation powered by **IndicTrans2 by AI4Bharat**.
 
+## 📺 Demo
+
+<video src="Resources/Demo.mp4" controls width="100%" />
+
+> 📁 Make sure the video file is located at `Resources/Demo.mp4`
+
 ## 🚀 Features
 
-- 🤖 **Real IndicTrans2 AI Models** - 1B parameter neural machine translation
-- 🌍 **15+ Languages** - Hindi, Bengali, Tamil, Telugu, Malayalam, Gujarati, and more
-- 📝 **Product Catalog Focus** - Optimized for e-commerce descriptions
-- ⚡ **GPU Acceleration** - Fast translation with Hugging Face Spaces GPU
-- 🎯 **High Accuracy** - State-of-the-art translation quality
+- 🤖 **Real IndicTrans2 AI Models** – 1B parameter neural machine translation
+- 🌍 **15+ Languages** – Hindi, Bengali, Tamil, Telugu, Malayalam, Gujarati, and more
+- 📝 **Product Catalog Focus** – Optimized for e-commerce descriptions
+- ⚡ **GPU Acceleration** – Fast translation with Hugging Face Spaces GPU
+- 🎯 **High Accuracy** – State-of-the-art translation quality
 
 ## 🌍 Supported Languages
 
