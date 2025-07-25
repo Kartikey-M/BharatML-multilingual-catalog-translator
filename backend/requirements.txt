@@ -1,0 +1,46 @@
+# FastAPI and web framework dependencies
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+python-dotenv==1.0.0
+
+# Pydantic for data validation
+pydantic==2.5.0
+
+# ML and AI dependencies
+torch>=2.0.0
+transformers>=4.35.0
+
+# IndicTrans2 dependencies
+sentencepiece>=0.1.97
+sacremoses>=0.0.44
+mosestokenizer>=1.2.1
+ctranslate2>=3.20.0
+regex>=2022.1.18
+# Install these manually if needed:
+# git+https://github.com/anoopkunchukuttan/indic_nlp_library
+# git+https://github.com/pytorch/fairseq
+
+# Language detection
+langdetect==1.0.9
+fasttext-wheel==0.9.2
+nltk>=3.8
+
+# Database
+#sqlite3  # Built into Python
+
+# Utilities
+python-json-logger==2.0.7
+requests==2.31.0
+
+# Development and testing
+pytest==7.4.3
+pytest-asyncio==0.21.1
+httpx==0.25.2  # For testing FastAPI
+
+# Optional: For production deployment
+gunicorn==21.2.0
+
+# Optional: For GPU acceleration (if available)
+# torch-audio  # Uncomment if needed
+# torchaudio   # Uncomment if needed
