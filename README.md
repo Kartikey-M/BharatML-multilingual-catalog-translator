@@ -26,9 +26,9 @@ short_description: AI-powered product catalog translator for 15+ Indian language
 
 ## 📺 Demo
 
-<video src="Resources/Demo.mp4" controls width="100%" />
+[![Watch Demo](https://img.youtube.com/vi/YZcFo3E-Djk/0.jpg)](https://youtu.be/YZcFo3E-Djk)
 
-> 📁 Make sure the video file is located at `Resources/Demo.mp4`
+> 🔗 Click the image above to watch the live demo on YouTube.
 
 ## 🚀 Features
 
@@ -58,6 +58,6 @@ English, Hindi, Bengali, Gujarati, Kannada, Malayalam, Marathi, Odia, Punjabi, T
 
 ## 🙏 Acknowledgments
 
-- **AI4Bharat** for the amazing IndicTrans2 models
-- **Hugging Face** for providing free GPU hosting
+- **AI4Bharat** for the amazing IndicTrans2 models  
+- **Hugging Face** for providing free GPU hosting  
 - **Streamlit** for the web framework
